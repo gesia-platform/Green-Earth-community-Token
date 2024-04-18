@@ -9,7 +9,6 @@ To prevent accidental burns, the token does not allow transfers to the contract 
 ### Details
 
 -	Deployments :
-    - Ethereum Mainnet GET token : 0xCC1F757E3fa67B70E761C71F4b75B1E9F72263AF
     - Binance Chain Mainnet GET Token : 0x102e52f7C3Cff79B41A17bE27ACe60061500050f
 
 -	Decimals : 18
